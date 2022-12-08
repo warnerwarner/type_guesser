@@ -1,0 +1,1 @@
+Toy project to train NN to distinguish pokemon types
